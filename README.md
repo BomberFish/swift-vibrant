@@ -20,18 +20,9 @@ As well as 2 different text colors for each of the above that look good on the c
  
 Don't believe me? There's a 100% money back guarantee! (Just kidding, it's MIT licensed aka free for your use).
 
-## Installation
-
-swift-vibrant is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'swift-vibrant'
-```
-
 ## Usage
 ```swift
-import swiftVibrant
+import SwiftVibrant
 
 let image = UIImage(named: "name_of_image")
 
